@@ -1,0 +1,15 @@
+C:\Users\dewan\source\repos\DewanH06\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\dewan\source\repos\DewanH06\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\dewan\source\repos\DewanH06\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\dewan\source\repos\DewanH06\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.AssemblyReference.cache
+C:\Users\dewan\source\repos\DewanH06\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\dewan\source\repos\DewanH06\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\dewan\source\repos\DewanH06\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+C:\Users\dewan\source\repos\DewanH06\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\dewan\source\repos\DewanH06\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\dewan\source\repos\DewanH06\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\dewan\source\repos\DewanH06\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\dewan\source\repos\DewanH06\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\dewan\source\repos\DewanH06\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+C:\Users\dewan\source\repos\DewanH06\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentform.resources
+C:\Users\dewan\source\repos\DewanH06\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
